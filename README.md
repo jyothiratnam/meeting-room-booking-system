@@ -8,7 +8,7 @@ A modern full-stack web application designed to simplify meeting room discovery,
 ## 🚀 Live Demo
 
 **Try the application:**  
-[Open Live Demo](YOUR_LIVE_DEMO_URL)
+[Open Live Demo](https://corp-reserve.vercel.app/)
 
 > The live environment is provided for demonstration purposes and may contain sample/demo data.
 
