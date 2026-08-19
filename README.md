@@ -16,7 +16,7 @@ A modern full-stack web application designed to simplify meeting room discovery,
 
 Watch the complete application walkthrough:
 
-[▶️ Watch the Demo Video](YOUR_VIDEO_URL)
+[▶️ Watch the Demo Video](corp-reserve-demo.mp4)
 
 The demo covers authentication, room availability, booking, booking management, and other key workflows.
 
